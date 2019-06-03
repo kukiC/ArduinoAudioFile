@@ -8,4 +8,4 @@ Link: https://github.com/adamstark/AudioFile
 
 Author: adamstark https://github.com/adamstark
 
-Thanks him for his outstanding work
+Thanks to adamstark for his outstanding work
