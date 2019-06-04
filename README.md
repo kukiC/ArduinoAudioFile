@@ -1,5 +1,5 @@
 # ArduinoAudioFile
-A simple Arduino library for reading .wav file
+A simple Arduino library for reading the .wav file in SD card
 
 # Authors
 This project is based on c++ Libirary AudioFile
