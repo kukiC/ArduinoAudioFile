@@ -1,4 +1,8 @@
 #include "ArduinoAudioFile.h"
+#include <SPI.h>
+#include <SD.h>
+
+#define CS 53
 
 void setup() {
   ArduinoAudioFile<double> song = ArduinoAudioFile<double>();
