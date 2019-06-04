@@ -6,6 +6,7 @@ template <class T>
 ArduinoAudioFile<T>::ArduinoAudioFile(){
   bitDepth = 16;
   sampleRate = 44100;
+  SD.begin(53);
 }
 
 
